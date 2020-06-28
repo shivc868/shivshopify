@@ -1,0 +1,222 @@
+@media screen and (max-width: 425px) {
+  .home {
+    width: 100%;
+    height: 200px;
+  }
+
+  .content {
+    top: 4vh;
+  }
+
+  .content a {
+    padding: 9px 18px;
+    font-size: 2vw;
+  }
+
+  .top-heading h1 {
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 2px;
+  }
+
+  .categories {
+    margin: 21px 10px;
+    justify-content: center;
+  }
+
+  .pic {
+    width: 320px;
+    height: 213px;
+  }
+
+  .image1-content {
+    position: absolute;
+    top: 48px;
+    right: 16px;
+  }
+
+  .image1-content h2 {
+    font-size: 23px;
+    padding: 5px 11px;
+    font-size: 15px;
+  }
+
+  .image1-content p {
+    font-size: 23px;
+  }
+
+  .image2-content {
+    top: 55px;
+    right: 12px;
+  }
+
+  .image2-content span {
+    font-size: 24px;
+  }
+
+  .image2-content h2 {
+    font-size: 27px;
+  }
+
+  .image3-content {
+    right: 7px;
+  }
+
+  .image3-content h2 {
+    font-size: 22px;
+  }
+
+  .image3-content a {
+    padding: 11px 13px;
+  }
+
+  .image3-content p {
+    margin-top: -1px;
+    font-size: 21px;
+  }
+
+  .img2 {
+    margin-top: 10px;
+  }
+
+  .img3 {
+    margin-top: 10px;
+  }
+
+  .product {
+    padding: 12px;
+  }
+
+  .product .container {
+    width: 86%;
+  }
+
+  .product-btn {
+    margin-bottom: 51px;
+  }
+
+  .section-tittle h2 {
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .nav-tabs {
+    margin-bottom: 4px;
+  }
+
+  .nav-tabs .nav-item {
+    font-size: 8px;
+  }
+
+  .best-product {
+    margin-top: 30px;
+  }
+
+  .men {
+    display: none;
+  }
+
+  .vertical-text span {
+    font-size: 54px;
+    bottom: 18%;
+  }
+
+  .shop-text {
+    top: 14%;
+    left: 20%;
+  }
+
+  .shop-text h2 {
+    font-size: 20px;
+    margin-bottom: 9px;
+  }
+
+  .shop-text p {
+    font-size: 13px;
+    margin-bottom: 22px;
+  }
+
+  .shop-text a {
+    padding: 8px 18px;
+    font-size: 14px;
+  }
+
+  .shirt {
+    width: 132px;
+    height: 70px;
+    right: 3%;
+    bottom: 5%;
+  }
+
+  .manz {
+    height: 211px;
+  }
+
+  .left-content h1 {
+    font-size: 28px;
+    margin-bottom: 9px;
+  }
+
+  .news-mail {
+    height: 250px;
+  }
+
+  .news {
+    height: 250px;
+  }
+
+  .latest-subscribe form input {
+    height: 42px;
+    padding-right: 81px;
+    font-size: 14px;
+  }
+
+  .latest-subscribe form button {
+    padding: 11px 22px;
+    font-size: 14px;
+    height: 42px;
+  }
+  .left-content p{
+        font-size: 19px;
+  }
+  .best-store span{
+    font-size: 48px;
+  }
+  .footer{
+    text-align: -webkit-center;
+  }
+  h2 span{
+    font-size: 18px;
+  }
+  .store{
+    margin-bottom: 20px;
+    width: 245px;
+    border-bottom: 0.1px solid #988a8a;
+  }
+  .footer>div.store p{
+        margin-bottom: 9px;
+  }
+  .footer{
+    padding-top: 3vh;
+  }
+  .quick-link{
+    width: 245px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    border-bottom: 0.1px solid #988a8a;
+  }
+  .new-product{
+  border-bottom: 0.1px solid #988a8a;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  width: 245px;
+  }
+  .support{
+    width: 245px;
+  }
+  .media{
+    justify-content: center;
+    padding-bottom: 10px;
+    border-bottom: 0.1px solid #988a8a;
+  }
+}
